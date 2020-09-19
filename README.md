@@ -17,6 +17,20 @@ All the images have been collected from "google images" and have been checked by
 3) Testing_set_animals.csv - this is the order of the predictions for each image that is to be submitted on the platform. <br>
     Make sure the predictions you download are with their image’s filename in the same order as given in this file. <br>
 <hr>
+<br>
+<h2> Running the model </h2>
+<hr>
+<h2> Code : </h2> 
+   from tensorflow.keras.models import load_model <br>
+
+loading the model weights <br>
+   model = load_model('CNN_model.h5') <br>
+
+<hr>
+<h3> Note : </h3>
+   Reshape the test image to (100, 100, 1) to do the prediction using CNN model.
+
+
 
 
  
