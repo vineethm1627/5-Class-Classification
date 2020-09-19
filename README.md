@@ -5,7 +5,7 @@ Final Project for Deep Learning Bootcamp :  [DPhi](https://www.dphi.tech)
 <hr>
 The training dataset consists of about 9k medium quality animal images belonging to 5 categories: butterfly, sheep, cow, squirrel, elephant. - mucca (cow), pecora (sheep), elefante (elephant), farfalla (butterfly) and scoiattolo (squirrel). All the images have been collected from "google images" and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app).
 <hr>
-<h2>Dataset Link : </h2>[dataset](https://drive.google.com/file/d/176E-pLhoxTgWsJ3MeoJQV_GXczIA6g8D/view?usp=sharing)
+<h2>Dataset Link : </h2> [dataset](https://drive.google.com/file/d/176E-pLhoxTgWsJ3MeoJQV_GXczIA6g8D/view?usp=sharing)
 <hr>
 <h2>Structure of the dataset : </h2>
 <hr>
