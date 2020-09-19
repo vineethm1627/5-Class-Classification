@@ -30,7 +30,7 @@ loading the model weights <br>
 <h3> Note : </h3>
    Reshape the test image to (100, 100, 1) to do the prediction using CNN model.
 <br>
-<h2> Converting predictions in excel sheet to csv values : </h2> <a href = "https://commaquote.azurewebsites.net/"><button>CLick Me </button> </a>
+<h3> Converting predictions in excel sheet to csv values : </h3> <a href = "https://commaquote.azurewebsites.net/"><button>CLick Me </button> </a>
 
 
 
