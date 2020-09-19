@@ -12,7 +12,7 @@ All the images have been collected from "google images" and have been checked by
 <h2>Structure of the dataset : </h2>
 <hr>
 1) train - contains five folders each folder containing images around 1000 to 2000 of those 5 five animals. <br>
-   Each image has a unique name.
+   Each image has a unique name. <br>
 2) test - contains 910 random images of those 5 animals whose predictions you are to submit on DPhi platform. <br>
 3) Testing_set_animals.csv - this is the order of the predictions for each image that is to be submitted on the platform. <br>
     Make sure the predictions you download are with their image’s filename in the same order as given in this file. <br>
