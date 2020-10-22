@@ -1,5 +1,7 @@
 # 5-Class-Classification using CNN.
-Final Project for Deep Learning Bootcamp :  <a href = "https://www.dphi.tech" > <button> Dphi Website </button> </a>
+Final Project for Deep Learning Bootcamp :  <a href = "https://www.dphi.tech" > <button> Dphi Website </button> </a> <br>
+
+Certificate of Accomplishment : [view](https://drive.google.com/file/d/1U6UdVW_T6Zf-sXSnbBRKQJiTqAqWrBKl/view)
 <h2>About the Data : </h2>
 <hr>
 The training dataset consists of about 9k medium quality animal images belonging to 5 categories: <br>
@@ -17,7 +19,6 @@ All the images have been collected from "google images" and have been checked by
 3) Testing_set_animals.csv - this is the order of the predictions for each image that is to be submitted on the platform. <br>
     Make sure the predictions you download are with their image’s filename in the same order as given in this file. <br>
 <hr>
-<br>
 <h2> Running the model </h2>
 <hr>
 <h2> Code : </h2> 
